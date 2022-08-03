@@ -62,4 +62,4 @@ Bridge co7io-plc4x-s7:network:local "S7-1200 vYXZ" [ host="10.10.10.10", rack=0,
 }
 ```
 
-include::_include/000_tip_mutiple_things.adoc[]
+include::partial$000_tip_mutiple_things.adoc[]

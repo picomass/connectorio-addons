@@ -1,0 +1,6 @@
+name: add-ons
+title: Connectorio Add-ons
+version: 0.1
+
+nav:
+  - modules/ROOT/nav.adoc
