@@ -3,12 +3,10 @@
 
 Published by ConnectorIO sp. z o.o.
 
-(C) 2020 by The ConnectorIO sp z o.o.
+(C) 2020-2022 by ConnectorIO sp. z o.o.
 
-This documentation provided as-is for information purposes.
+This documentation provided as-is for information purposes only.
 
-The ® sign indicates that given name or logo is a registered trademark.
-We respect copyright, and we value trademarks of others.
-BACnet, Apache PLC4X, Siemens, Beckhoff are all registered trademarks belonging to its respective owners.
-Above names mentioned in this documentation are to give credits to producers of awesome equipment and libraries.
-They are not listed here for advertising or affirmation purposes.
+The ® sign indicates that the given name or logo is a registered trademark.
+We respect copyright, and we value the trademarks of others.
+BACnet, Apache PLC4X, Siemens, Beckhoff are all registered trademarks belonging to their respective owners. The above-mentioned names in this documentation are to give credit to the producers of awesome equipment and libraries. They are not listed here for advertising or affirmation purposes.

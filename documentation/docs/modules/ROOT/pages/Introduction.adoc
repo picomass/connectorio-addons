@@ -6,9 +6,9 @@ Well, there are few reasons, but the primary one is really ability to visualize 
 openHAB is quite compact when it is properly installed thus can be used as IoT gateway.
 With ConnectorIO bindings it will not become an IIoT gateway right away, however will gather connectivity abilities typical for these.
 
-A below legend indicates with dark blue color components developed and solely maintained by ConnectorIO.
+In the legend shown below, the dark blue color indicates components developed and solely maintained by ConnectorIO.
 Other colors indicate major dependencies used by us to provide desired functionality.
-To matter of fact, ConnectorIO bindings are third party addons for openHAB.
+In essence then ConnectorIO bindings are third party add-ons for openHAB.
 
 [ditaa,"integration-architecture-legend"]
 ....
