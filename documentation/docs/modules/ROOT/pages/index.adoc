@@ -4,7 +4,7 @@
 :author: ConnectorIO sp. z o.o.
 :email: company@connectorio.com
 
-include::Colophon.adoc[]
+include::partial$Colophon.adoc[]
 
 <<<
 
@@ -12,16 +12,16 @@ This document describes installation and configuration procedure of ConnectorIO 
 openHAB is popular home automation software, however its architecture is flexible and allows connectivity with various hardware.
 From our point of view the HAB part of that name is "Hardware Abstraction Bus", and it is used in such a way by us.
 Vanilla openHAB connect devices such as heating boilers, multimedia systems down to small sensors or smart meters.
-It has also support for Modbus, solar inverters, energy meters some PLC kinds and other serial based communications.
+openHAB also supports Modbus, solar inverters, energy meters, a range of PLCs and other serial based communications.
 
 include::Introduction.adoc[]
 include::Installation.adoc[]
 
 == Bindings
 
-include::BACnet.adoc[]
-include::Beckhoff.adoc[]
-include::Siemens.adoc[]
+include::bindings:BACnet.adoc[]
+include::bindings:Beckhoff.adoc[]
+include::bindings:Siemens.adoc[]
 
 == Notes
 

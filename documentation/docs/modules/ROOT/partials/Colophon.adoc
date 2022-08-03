@@ -1,5 +1,5 @@
 [colophon]
-= Colophon
+== Colophon
 
 Published by ConnectorIO sp. z o.o.
 
